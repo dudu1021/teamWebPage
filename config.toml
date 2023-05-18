@@ -79,11 +79,7 @@ pluralizelisttitles = false
     url        = "/git/"
     weight     = 4
 
-[[menu.main]]
-    name       = "Web"
-    identifier = "menu.web"
-    url        = "/web/"
-    weight     = 5
+
 
 
 
@@ -140,7 +136,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["linux", "container", "git", "web"]
+    mainSections = ["linux", "container", "git"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
