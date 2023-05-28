@@ -1,8 +1,6 @@
 +++
 title = "Docker Commands"
 date = "2023-05-27"
-tags = ["container"]
-categories = ["pseudo"]
 +++
 
 
