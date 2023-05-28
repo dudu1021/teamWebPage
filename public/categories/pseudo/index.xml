@@ -6,20 +6,7 @@
     <description>Recent content in pseudo on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://dudu1021.github.io/teamWebPage/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Docker Commands</title>
-      <link>http://dudu1021.github.io/teamWebPage/container/container_rule/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://dudu1021.github.io/teamWebPage/container/container_rule/</guid>
-      <description>유용한 CONTAINER 명령어   docker run: 컨테이너 생성과 실행을 위해 사용되는 명령어
--&amp;gt; 예시: docker run -it ubuntu bash (ubuntu 이미지를 이용해 bash 셸로 대화형 세션을 시작합니다)
-  docker ps: 실행 중인 Docker 컨테이너를 나열 -&amp;gt; 예시: docker ps (현재 실행 중인 컨테이너를 보여줍니다) -&amp;gt; -a 옵션을 추가하면 모든 컨테이너를 나열합니다: docker ps -a
-  docker stop: 실행 중인 컨테이너를 정지
--&amp;gt; 예시: docker stop my-container (&amp;ldquo;my-container&amp;quot;라는 이름의 컨테이너를 중지합니다)</description>
-    </item>
-    
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate><atom:link href="http://dudu1021.github.io/teamWebPage/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is git?</title>
       <link>http://dudu1021.github.io/teamWebPage/git/hugo-is-for-lovers-copy/</link>

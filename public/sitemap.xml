@@ -38,13 +38,7 @@
     <loc>http://dudu1021.github.io/teamWebPage/container/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dudu1021.github.io/teamWebPage/tags/container/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://dudu1021.github.io/teamWebPage/container/container_rule/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dudu1021.github.io/teamWebPage/categories/pseudo/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dudu1021.github.io/teamWebPage/container/what-is-container/</loc>
@@ -73,6 +67,9 @@
   </url><url>
     <loc>http://dudu1021.github.io/teamWebPage/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>http://dudu1021.github.io/teamWebPage/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
     <loc>http://dudu1021.github.io/teamWebPage/git/hugo-is-for-lovers-copy/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
