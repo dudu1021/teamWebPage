@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>What is Container?</title>
+      <title>What is CONTAINER?</title>
       <link>http://dudu1021.github.io/teamWebPage/container/what-is-container/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://dudu1021.github.io/teamWebPage/container/what-is-container/</guid>
-      <description>CONTAINER  컨테이너란?  컨테이너는 소프트웨어를 패키지화하는 기술로, 코드, 런타임, 시스템 도구, 시스템 라이브러리, 설정 등 소프트웨어를 실행하는데 필요한 모든 것을 포함합니다. 이렇게 컨테이너화하면 개발 환경과 배포 환경 간의 차이를 줄여줍니다.  컨테이너 사용 이유 1.환경 일관성 : 컨테이너는 개발, 테스팅, 프로덕션 환경 간에 일관된 환경을 제공합니다. 2.분리 및 보안 : 각 컨테이너는 서로 독립적으로 실행되어, 각 어플리케이션의 프로세스와 파일 시스템을 격리시킵니다. 3.이식성 : 컨테이너는 거의 모든 환경에서 실행할 수 있습니다.</description>
+      <description>컨테이너와 도커</description>
     </item>
     
   </channel>
