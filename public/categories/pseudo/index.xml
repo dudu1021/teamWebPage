@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate><atom:link href="http://dudu1021.github.io/teamWebPage/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is CONTAINER?</title>
+      <title>CONTANINER AND DOCKER</title>
       <link>http://dudu1021.github.io/teamWebPage/container/what-is-container/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>http://dudu1021.github.io/teamWebPage/container/what-is-container/</guid>
-      <description>컨테이너와 도커</description>
+      <description>컨테이너 정의와 도커의 뜻을 설명</description>
+    </item>
+    
+    <item>
+      <title>What is docker command?</title>
+      <link>http://dudu1021.github.io/teamWebPage/container/container_rule/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://dudu1021.github.io/teamWebPage/container/container_rule/</guid>
+      <description>도커 커맨드</description>
     </item>
     
     <item>
