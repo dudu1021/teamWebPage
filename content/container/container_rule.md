@@ -1,6 +1,10 @@
 +++
-title = "Docker Commands"
-date = "2023-05-27"
+title = "What is docker command?"
+date = "2015-08-03T13:39:46+02:00"
+tags = ["hugo"]
+categories = ["pseudo"]
+banner = "img/banners/banner-1.jpg"
+summary="도커 커맨드"
 +++
 
 

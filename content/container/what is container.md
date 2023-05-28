@@ -1,13 +1,11 @@
 +++
-title = "What is CONTAINER?"
+title = "CONTANINER AND DOCKER"
 date = "2015-08-03T13:39:46+02:00"
 tags = ["hugo"]
 categories = ["pseudo"]
 banner = "img/banners/banner-2.jpg"
-summary="컨테이너와 도커"
+summary="컨테이너 정의와 도커의 뜻을 설명"
 +++
-
-
 
 # CONTAINER
 ---
