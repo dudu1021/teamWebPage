@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Container on Universal</title>
+    <link>http://dudu1021.github.io/teamWebPage/container/</link>
+    <description>Recent content in Container on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://dudu1021.github.io/teamWebPage/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Commands</title>
+      <link>http://dudu1021.github.io/teamWebPage/container/container_rule/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://dudu1021.github.io/teamWebPage/container/container_rule/</guid>
+      <description>유용한 CONTAINER 명령어   docker run: 컨테이너 생성과 실행을 위해 사용되는 명령어
+-&amp;gt; 예시: docker run -it ubuntu bash (ubuntu 이미지를 이용해 bash 셸로 대화형 세션을 시작합니다)
+  docker ps: 실행 중인 Docker 컨테이너를 나열 -&amp;gt; 예시: docker ps (현재 실행 중인 컨테이너를 보여줍니다) -&amp;gt; -a 옵션을 추가하면 모든 컨테이너를 나열합니다: docker ps -a
+  docker stop: 실행 중인 컨테이너를 정지
+-&amp;gt; 예시: docker stop my-container (&amp;ldquo;my-container&amp;quot;라는 이름의 컨테이너를 중지합니다)</description>
+    </item>
+    
+    <item>
+      <title>What is Container?</title>
+      <link>http://dudu1021.github.io/teamWebPage/container/what-is-container/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://dudu1021.github.io/teamWebPage/container/what-is-container/</guid>
+      <description>CONTAINER  컨테이너란?  컨테이너는 소프트웨어를 패키지화하는 기술로, 코드, 런타임, 시스템 도구, 시스템 라이브러리, 설정 등 소프트웨어를 실행하는데 필요한 모든 것을 포함합니다. 이렇게 컨테이너화하면 개발 환경과 배포 환경 간의 차이를 줄여줍니다.  컨테이너 사용 이유 1.환경 일관성 : 컨테이너는 개발, 테스팅, 프로덕션 환경 간에 일관된 환경을 제공합니다. 2.분리 및 보안 : 각 컨테이너는 서로 독립적으로 실행되어, 각 어플리케이션의 프로세스와 파일 시스템을 격리시킵니다. 3.이식성 : 컨테이너는 거의 모든 환경에서 실행할 수 있습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
