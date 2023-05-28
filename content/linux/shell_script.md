@@ -21,7 +21,8 @@ shell은 커널과 사용자 사이의 인터페이스이면서 프로그래밍 
     - ./hello.sh -> 실행 권한 필요
 - 변수
     - a=b : 빈칸 없음
-    - echo $a : 변수 사용(echo ${a}, echo $aa, echo ${a}a)
+    - echo $a : 변수 사용
+        - echo ${a}, echo $aa, echo ${a}a
     - echo $(which bash) : 명령 결과 사용
 
 ### 제어문
