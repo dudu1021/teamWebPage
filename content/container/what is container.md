@@ -1,7 +1,11 @@
----
-title: "What is Container?"
-date: 2023-05-27
----
++++
+title = "What is CONTAINER?"
+date = "2015-08-03T13:39:46+02:00"
+tags = ["hugo"]
+categories = ["pseudo"]
+banner = "img/banners/banner-2.jpg"
+summary="컨테이너와 도커"
++++
 
 
 
